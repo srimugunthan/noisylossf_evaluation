@@ -1,7 +1,0 @@
-matplotlib
-nltk
-numpy
-pandas
-scikit_learn
-tensorflow
-textblob
